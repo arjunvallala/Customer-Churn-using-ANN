@@ -2,9 +2,10 @@
 
 ## 🚀 Live Demo
 
-**Streamlit App:** [Deploy Link]( )
+**Streamlit App:** [Click here to try the live application](https://customer-churn-using-ann-7tjfdkim4wbaejed4dqbb2.streamlit.app/)
 
 ---
+
 
 ## Overview
 This project predicts whether a customer is likely to leave a company using an Artificial Neural Network (ANN). It uses customer information such as tenure, monthly charges, support calls, payment method, and contract type.
